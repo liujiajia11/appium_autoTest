@@ -1,0 +1,8 @@
+
+platformName: Android
+platformVersion: 6.2.7.0
+deviceName: 127.0.0.1:62001
+#appPackage: com.example.znbwl
+#appActivity: com.example.znbwl.LoginActivity
+ip: 127.0.0.1
+port: 4723

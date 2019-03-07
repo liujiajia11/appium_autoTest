@@ -1,0 +1,27 @@
+2019-03-07 16:08:17,851-BasePage-INFO-长按成功
+2019-03-07 16:08:18,270-BasePage-INFO-The element was click 
+2019-03-07 16:08:18,953-BasePage-INFO-The element was click 
+2019-03-07 16:08:32,114-BasePage-INFO-长按成功
+2019-03-07 16:08:32,339-BasePage-INFO-The element was click 
+2019-03-07 16:08:33,371-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/note_title')
+2019-03-07 16:08:33,956-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="ab94db7c-5284-40fd-b544-5ebc84bc9d3d", element="7")>
+2019-03-07 16:08:33,976-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/notelistview')
+2019-03-07 16:08:34,049-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="ab94db7c-5284-40fd-b544-5ebc84bc9d3d", element="9")>
+2019-03-07 16:08:34,273-BasePage-INFO-The element was click 
+2019-03-07 16:08:36,041-BasePage-INFO-The element was click 
+2019-03-07 16:08:39,314-BasePage-INFO-The element was click 
+2019-03-07 16:08:42,530-BasePage-INFO-The element was click 
+2019-03-07 16:08:45,762-BasePage-INFO-The element was click 
+2019-03-07 16:08:48,234-BasePage-INFO-向左滑动成功
+2019-03-07 16:08:51,446-BasePage-INFO-The element was click 
+2019-03-07 16:08:52,797-BasePage-INFO-The element was click 
+2019-03-07 16:08:57,148-BasePage-INFO-长按成功
+2019-03-07 16:08:57,683-BasePage-INFO-The element was click 
+2019-03-07 16:08:58,383-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/note_title')
+2019-03-07 16:08:58,497-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="ab94db7c-5284-40fd-b544-5ebc84bc9d3d", element="20")>
+2019-03-07 16:08:58,529-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/notelistview')
+2019-03-07 16:08:58,577-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="ab94db7c-5284-40fd-b544-5ebc84bc9d3d", element="22")>
+2019-03-07 16:08:58,780-BasePage-INFO-The element was click 
+2019-03-07 16:09:02,047-BasePage-INFO-The element was click 
+2019-03-07 16:09:05,313-BasePage-INFO-The element was click 
+2019-03-07 16:09:08,498-BasePage-INFO-The element was click 

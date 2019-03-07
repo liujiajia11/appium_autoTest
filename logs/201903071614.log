@@ -1,0 +1,83 @@
+2019-03-07 16:14:52,745-BasePage-INFO-The element was click 
+2019-03-07 16:14:54,868-BasePage-INFO-The element was click 
+2019-03-07 16:14:56,542-BasePage-INFO-The element was click 
+2019-03-07 16:15:04,675-BasePage-INFO-输入内容:you and me
+2019-03-07 16:15:12,387-BasePage-INFO-输入内容:57464369@qq.com
+2019-03-07 16:15:20,118-BasePage-INFO-输入内容:1111111
+2019-03-07 16:15:20,933-BasePage-INFO-The element was click 
+2019-03-07 16:15:24,393-BasePage-INFO-The element was click 
+2019-03-07 16:15:25,494-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/email')
+2019-03-07 16:15:25,574-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="ac0c4e60-a6fe-4e83-89aa-844a4b9d8f9d", element="10")>
+2019-03-07 16:15:29,183-BasePage-INFO-The element was click 
+2019-03-07 16:15:31,232-BasePage-INFO-The element was click 
+2019-03-07 16:15:32,044-BasePage-INFO-The element was click 
+2019-03-07 16:15:33,765-BasePage-INFO-The element was click 
+2019-03-07 16:15:35,361-BasePage-INFO-The element was click 
+2019-03-07 16:15:44,310-BasePage-INFO-输入内容:you and me
+2019-03-07 16:15:51,884-BasePage-INFO-输入内容:1912198737@qq.com
+2019-03-07 16:15:59,379-BasePage-INFO-输入内容:1111111
+2019-03-07 16:16:00,213-BasePage-INFO-The element was click 
+2019-03-07 16:16:16,842-BasePage-INFO-The element was click 
+2019-03-07 16:16:18,981-BasePage-INFO-The element was click 
+2019-03-07 16:16:28,363-BasePage-INFO-输入内容:57464369@qq.com
+2019-03-07 16:16:35,975-BasePage-INFO-输入内容:1111111
+2019-03-07 16:16:36,746-BasePage-INFO-The element was click 
+2019-03-07 16:16:39,955-BasePage-INFO-The element was click 
+2019-03-07 16:16:41,006-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/email')
+2019-03-07 16:16:41,118-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="6920b274-e708-4df5-80ab-1118afc242a0", element="8")>
+2019-03-07 16:16:44,812-BasePage-INFO-The element was click 
+2019-03-07 16:16:46,808-BasePage-INFO-The element was click 
+2019-03-07 16:16:49,039-BasePage-INFO-The element was click 
+2019-03-07 16:16:50,711-BasePage-INFO-The element was click 
+2019-03-07 16:16:59,931-BasePage-INFO-输入内容:19121987372@qq.com
+2019-03-07 16:17:08,095-BasePage-INFO-输入内容:111111111
+2019-03-07 16:17:08,866-BasePage-INFO-The element was click 
+2019-03-07 16:17:26,542-BasePage-INFO-The element was click 
+2019-03-07 16:17:35,884-BasePage-INFO-输入内容:today is Thursday
+2019-03-07 16:17:36,881-BasePage-INFO-The element was click 
+2019-03-07 16:17:37,736-BasePage-INFO-The element was click 
+2019-03-07 16:17:39,553-BasePage-INFO-The element was click 
+2019-03-07 16:17:49,584-BasePage-INFO-输入内容:a fine day
+2019-03-07 16:17:50,525-BasePage-INFO-The element was click 
+2019-03-07 16:17:55,723-BasePage-INFO-The element was click 
+2019-03-07 16:18:05,730-BasePage-INFO-输入内容:a
+2019-03-07 16:18:06,350-BasePage-INFO-按回车键成功
+2019-03-07 16:18:25,232-BasePage-INFO-长按成功
+2019-03-07 16:18:25,692-BasePage-INFO-The element was click 
+2019-03-07 16:18:26,574-BasePage-INFO-The element was click 
+2019-03-07 16:18:32,772-BasePage-INFO-长按成功
+2019-03-07 16:18:33,608-BasePage-INFO-The element was click 
+2019-03-07 16:18:33,662-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/note_title')
+2019-03-07 16:18:34,188-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="3792b54e-a77a-45ab-a57d-c6204991668f", element="7")>
+2019-03-07 16:18:34,234-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/notelistview')
+2019-03-07 16:18:34,315-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="3792b54e-a77a-45ab-a57d-c6204991668f", element="9")>
+2019-03-07 16:18:34,526-BasePage-INFO-The element was click 
+2019-03-07 16:18:36,408-BasePage-INFO-The element was click 
+2019-03-07 16:18:39,673-BasePage-INFO-The element was click 
+2019-03-07 16:18:43,092-BasePage-INFO-The element was click 
+2019-03-07 16:18:46,357-BasePage-INFO-The element was click 
+2019-03-07 16:18:48,856-BasePage-INFO-向左滑动成功
+2019-03-07 16:18:52,033-BasePage-INFO-The element was click 
+2019-03-07 16:18:53,480-BasePage-INFO-The element was click 
+2019-03-07 16:18:57,778-BasePage-INFO-长按成功
+2019-03-07 16:18:58,548-BasePage-INFO-The element was click 
+2019-03-07 16:18:59,103-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/note_title')
+2019-03-07 16:18:59,165-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="3792b54e-a77a-45ab-a57d-c6204991668f", element="20")>
+2019-03-07 16:18:59,191-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/notelistview')
+2019-03-07 16:18:59,255-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="3792b54e-a77a-45ab-a57d-c6204991668f", element="22")>
+2019-03-07 16:18:59,430-BasePage-INFO-The element was click 
+2019-03-07 16:19:02,742-BasePage-INFO-The element was click 
+2019-03-07 16:19:06,021-BasePage-INFO-The element was click 
+2019-03-07 16:19:09,455-BasePage-INFO-The element was click 
+2019-03-07 16:19:26,080-BasePage-INFO-The element was click 
+2019-03-07 16:19:28,187-BasePage-INFO-The element was click 
+2019-03-07 16:19:37,408-BasePage-INFO-输入内容:1912198737@qq.com
+2019-03-07 16:19:45,102-BasePage-INFO-输入内容:1111111
+2019-03-07 16:19:45,868-BasePage-INFO-The element was click 
+2019-03-07 16:19:48,305-BasePage-INFO-The element was click 
+2019-03-07 16:19:50,341-BasePage-INFO-The element was click 
+2019-03-07 16:19:52,046-BasePage-INFO-The element was click 
+2019-03-07 16:19:59,988-BasePage-INFO-输入内容:happy
+2019-03-07 16:20:00,014-BasePage-INFO-找到页面元素('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-07 16:20:00,546-BasePage-INFO-取得的内容:<appium.webdriver.webelement.WebElement (session="4d286bee-9aa4-429a-91f8-7c3803acd49c", element="11")>
+2019-03-07 16:20:03,687-BasePage-INFO-The element was click 
